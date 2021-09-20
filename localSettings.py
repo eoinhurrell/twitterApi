@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """Settings file for Twitter Oauth access.
 
-Author: Eoin Hurrell <UltimateHurl@gmail.com>
+Author: Eoin Hurrell <gmail.com>
 Created: 13-12-28
 
 """
